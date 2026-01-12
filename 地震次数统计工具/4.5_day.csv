@@ -1,0 +1,19 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-17T05:05:55.073Z,0.905,-29.1088,10,5.2,mb,78,50,9.525,0.67,us,us7000nzgl,2024-12-17T05:24:16.040Z,central Mid-Atlantic Ridge,earthquake,6.93,1.844,0.035,272,reviewed,us,us
+2024-12-17T05:02:55.196Z,-18.0207,167.8715,43.23,4.7,mb,27,85,4.219,1.08,us,us7000nzgk,2024-12-17T06:39:04.040Z,"56 km SW of Port-Vila, Vanuatu",earthquake,11.47,8.207,0.13,23,reviewed,us,us
+2024-12-17T04:39:34.957Z,-41.8381,174.38,25.855,4.5,mb,29,89,0.582,1.02,us,us7000nzge,2024-12-17T05:49:20.426Z,"49 km SE of Witherlea, New Zealand",earthquake,1.91,7.177,0.192,8,reviewed,us,us
+2024-12-17T04:18:43.059Z,-17.9258,167.953,43.336,5.4,mb,48,72,4.338,1.09,us,us7000nzgb,2024-12-17T06:21:37.984Z,"43 km WSW of Port-Vila, Vanuatu",earthquake,8.84,8.666,0.09,42,reviewed,us,us
+2024-12-17T04:09:34.263Z,31.0904,130.2373,165.486,5.2,mb,88,82,0.456,0.56,us,us7000nzg7,2024-12-17T04:23:29.040Z,"20 km SSW of Makurazaki, Japan",earthquake,5.96,4.618,0.077,56,reviewed,us,us
+2024-12-17T04:07:10.305Z,-18.0814,168.0112,60.481,4.7,mb,22,214,4.29,0.81,us,us7000nzg9,2024-12-17T04:39:41.040Z,"49 km SW of Port-Vila, Vanuatu",earthquake,14.12,10.819,0.142,15,reviewed,us,us
+2024-12-17T03:48:18.967Z,-17.8389,167.9946,56.851,5,mb,55,84,4.422,0.68,us,us7000nzg6,2024-12-17T04:13:44.040Z,"35 km WSW of Port-Vila, Vanuatu",earthquake,9.62,5.509,0.078,52,reviewed,us,us
+2024-12-17T03:37:44.268Z,-17.8056,167.957,55.674,4.9,mb,27,84,4.415,1.05,us,us7000nzg0,2024-12-17T04:05:48.040Z,"38 km WSW of Port-Vila, Vanuatu",earthquake,10.13,6.436,0.103,30,reviewed,us,us
+2024-12-17T03:06:26.634Z,-18.0741,167.7271,49.515,4.7,mb,26,179,4.077,0.57,us,us7000nzfs,2024-12-17T03:20:23.040Z,"72 km WSW of Port-Vila, Vanuatu",earthquake,12.2,12.821,0.124,20,reviewed,us,us
+2024-12-17T01:53:13.108Z,-17.7548,167.9646,48.726,5.5,mb,17,81,2.408,0.75,us,us7000nzf4,2024-12-17T03:55:58.905Z,"37 km W of Port-Vila, Vanuatu",earthquake,8.7,8.076,0.163,13,reviewed,us,us
+2024-12-17T01:47:26.347Z,-17.6859,168.0338,57.094,7.3,mww,121,30,2.364,1.19,us,us7000nzf3,2024-12-17T04:53:33.948Z,"30 km W of Port-Vila, Vanuatu",earthquake,5.87,4.465,0.036,73,reviewed,us,us
+2024-12-17T01:05:11.098Z,26.2056,-110.1063,10,4.5,mb,18,172,2.208,1.01,us,us7000nzeu,2024-12-17T02:44:13.644Z,"75 km SW of Etchoropo, Mexico",earthquake,9.99,1.96,0.084,41,reviewed,us,us
+2024-12-16T23:41:54.344Z,47.2098,154.4383,10,4.6,mb,27,183,6.265,0.75,us,us7000nzee,2024-12-17T00:03:04.040Z,Kuril Islands,earthquake,12.01,1.957,0.101,29,reviewed,us,us
+2024-12-16T22:24:29.531Z,-3.3883,149.7296,10,4.6,mb,19,139,2.556,0.87,us,us7000nzdy,2024-12-16T22:39:35.040Z,"148 km SW of Kavieng, Papua New Guinea",earthquake,7.22,1.918,0.146,14,reviewed,us,us
+2024-12-16T18:12:22.604Z,-21.8112,170.7586,75.965,4.9,mww,30,127,3.171,1.1,us,us7000nzaq,2024-12-17T01:56:38.317Z,"294 km SSE of Isangel, Vanuatu",earthquake,11.02,7.592,0.103,9,reviewed,us,us
+2024-12-16T10:14:44.537Z,-3.7686,129.2735,25.758,5.5,mww,99,42,0.978,1.04,us,us7000nz8f,2024-12-16T16:06:01.166Z,"61 km SE of Amahai, Indonesia",earthquake,5.56,4.9,0.065,23,reviewed,us,us
+2024-12-16T07:16:49.878Z,-7.9047,121.0671,10,4.9,mb,52,50,1.367,0.57,us,us7000nz7l,2024-12-16T07:42:07.040Z,"102 km NE of Ruteng, Indonesia",earthquake,5.52,1.88,0.094,35,reviewed,us,us
+2024-11-26T05:58:26.550Z,17.97966667,-66.97466667,5.44,2.1,md,5,166,0.06327,0.03,pr,pr71466853,2024-11-26T06:04:48.550Z,"6 km W of Fuig, Puerto Rico",earthquake,0.37,0.92,0.044006539,3,reviewed,pr,pr
